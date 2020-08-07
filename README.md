@@ -4,6 +4,11 @@ The  trained model  in the Occluded-DukeMTMC
 https://pan.baidu.com/s/1HxLg0EvcBpAfSN_eW3oK7Q  passwd: wip9
 
 
+The  trained model  in the  P-DukeMTMC-reID
+
+
+xxxx
+
 
 
 The  trained model  in the CUHK03-NP/Labeled
