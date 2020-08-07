@@ -18,7 +18,7 @@ https://pan.baidu.com/s/1yudTzvDrsJQGl-mo3KvEEQ  passwd：c635
 
 
 The  trained model  in the CUHK03-NP/Detected
-xxx passwd: xxx
+https://pan.baidu.com/s/1Wfu7YC5SrFVP5MjM0Yx3Jw   passwd: mrto
 
 
 
