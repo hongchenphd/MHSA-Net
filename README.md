@@ -23,7 +23,13 @@ https://pan.baidu.com/s/1Wfu7YC5SrFVP5MjM0Yx3Jw   passwd: mrto
 
 
 The  trained model  in the DukeMTMC-reID 
-xxx passwd: xxx
+Waiting
 
 The  trained model  in the Market1501
-xxx passwd: xxx
+Waiting
+
+The  trained model  in the Partial-REID
+Waiting
+
+The  trained model  in the Partial-iLIDS
+Waiting
