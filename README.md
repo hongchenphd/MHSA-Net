@@ -25,12 +25,3 @@ https://pan.baidu.com/s/1Wfu7YC5SrFVP5MjM0Yx3Jw   passwd: mrto
 The  trained model  in the DukeMTMC-reID 
 https://pan.baidu.com/s/1KYPamiYzZF8m7GeXgpodmw  passwd：pxfi 
 
-
-The  trained model  in the Market1501
-Waiting
-
-The  trained model  in the Partial-REID
-Waiting
-
-The  trained model  in the Partial-iLIDS
-Waiting
